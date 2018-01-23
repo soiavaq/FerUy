@@ -12,4 +12,6 @@ Thanks a lot
 
 soiavaq@gmail.com
 
-[(http://img.youtube.com/vi/tIlxoeZO8qc/0.jpg)]
+Example:
+
+![Example](http://www.telestax.com/wp-content/uploads/2014/03/ussdflash.png)
