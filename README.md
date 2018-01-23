@@ -12,4 +12,4 @@ Thanks a lot
 
 soiavaq@gmail.com
 
-http://img.youtube.com/vi/tIlxoeZO8qc/0.jpg
+[(http://img.youtube.com/vi/tIlxoeZO8qc/0.jpg)]
