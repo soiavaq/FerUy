@@ -4,7 +4,7 @@ I install restcomm ussd gateway on my server but can not config it
 
 I tried but did not work
 
-I just want to send real ussd push message to my phone number
+I just want to send a real ussd push message to my phone number
 
 Can you help me?
 
